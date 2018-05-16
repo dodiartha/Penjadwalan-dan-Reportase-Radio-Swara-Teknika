@@ -1,3 +1,34 @@
+Tampilan Splash Screen
+<img src="https://github.com/dodiartha/Penjadwalan-dan-Reportase-Radio-Swara-Teknika/blob/master/ss/Screenshot_20180516-192409.png" 
+width="350" />
+
+Tampilan Splash Screen
+<img src="https://github.com/dodiartha/Penjadwalan-dan-Reportase-Radio-Swara-Teknika/blob/master/ss/Screenshot_20180516-192427.png" 
+width="350" />
+
+Tampilan Splash Screen
+<img src="https://github.com/dodiartha/Penjadwalan-dan-Reportase-Radio-Swara-Teknika/blob/master/ss/Screenshot_20180516-192430.png" 
+width="350" />
+
+Tampilan Splash Screen
+<img src="https://github.com/dodiartha/Penjadwalan-dan-Reportase-Radio-Swara-Teknika/blob/master/ss/Screenshot_20180516-192441.png" 
+width="350" />
+
+Tampilan Splash Screen
+<img src="https://github.com/dodiartha/Penjadwalan-dan-Reportase-Radio-Swara-Teknika/blob/master/ss/Screenshot_20180516-192455.png" 
+width="350" />
+
+Tampilan Splash Screen
+<img src="https://github.com/dodiartha/Penjadwalan-dan-Reportase-Radio-Swara-Teknika/blob/master/ss/Screenshot_20180516-192459.png" 
+width="350" />
+
+Tampilan Splash Screen
+<img src="https://github.com/dodiartha/Penjadwalan-dan-Reportase-Radio-Swara-Teknika/blob/master/ss/Screenshot_20180516-192516.png" 
+width="350" />
+
+Tampilan Splash Screen
+<img src="https://github.com/dodiartha/Penjadwalan-dan-Reportase-Radio-Swara-Teknika/blob/master/ss/Screenshot_20180516-192530.png" 
+width="350" />
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
