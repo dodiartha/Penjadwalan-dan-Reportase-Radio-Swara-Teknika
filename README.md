@@ -1,4 +1,4 @@
-Tampilan Splash Screen
+Tampilan Splash Screen <br>
 <img src="https://github.com/dodiartha/Penjadwalan-dan-Reportase-Radio-Swara-Teknika/blob/master/ss/Screenshot_20180516-192409.png" 
 width="350" />
 
